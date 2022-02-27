@@ -1,4 +1,4 @@
-package laura.telecomacademy.java1.exextra.mirabelatabacu.cap3OO;
+package laura.telecomacademy.java1.exextra.mirabelatabacu.cap3oo;
 
 public class Angajat {
 	

@@ -1,4 +1,4 @@
-package laura.telecomacademy.java1.exextra.alextopala.cap4Mosternire;
+package laura.telecomacademy.java1.exextra.alextopala.cap4mosternire;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

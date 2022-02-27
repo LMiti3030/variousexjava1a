@@ -1,4 +1,4 @@
-package laura.telecomacademy.java1.exextra.alextopala.cap4Mosternire;
+package laura.telecomacademy.java1.exextra.alextopala.cap4mosternire;
 
 public class AnimalTerestru extends Animal {
     private String regiune;

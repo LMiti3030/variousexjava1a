@@ -18,6 +18,7 @@ public class CheckOddEvenNumber {
 			System.exit(0);
 		}
 		checkNumber(number);
+		s.close();
 	}
 
 	private static void checkNumber(Double number) {
